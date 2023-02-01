@@ -5,8 +5,7 @@
 
 
 !
-# [Usage](https://lwairore.github.io/angular-weather-app/)
-## Development
+#
 Want to contribute? Great!
 
 
